@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoalTes_FullStack_NET_V1", "SoalTes_FullStack_NET_V1.csproj", "{7A828CDD-C184-4204-A9B6-1D55E7C0B1AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debuging dan Error Handling", "..\Debuging dan Error Handling\Debuging dan Error Handling.csproj", "{B35567F2-D937-40B7-8404-B5AC9D3C9BC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7A828CDD-C184-4204-A9B6-1D55E7C0B1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A828CDD-C184-4204-A9B6-1D55E7C0B1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A828CDD-C184-4204-A9B6-1D55E7C0B1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35567F2-D937-40B7-8404-B5AC9D3C9BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35567F2-D937-40B7-8404-B5AC9D3C9BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35567F2-D937-40B7-8404-B5AC9D3C9BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35567F2-D937-40B7-8404-B5AC9D3C9BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
